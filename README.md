@@ -1,8 +1,5 @@
 # Brazillian Medical Appointments
 ## Introduction
-
-### Dataset Description 
-
 In this project patients' appointment schedule records would be analyzed  to show how certain recorded patient information like Age, Alcholic habits, Gender among a few others did or did not have significant relationships with  patients actually showing up for their appointments.  
 This particular dataset consists of information of over 100,000 medical appointments in Brazil. The main focus of the dataset is whether the patients showed up for their appointments or not. The dataset consists of 14 columns:
 ### Questions for Analysis
